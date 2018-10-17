@@ -8,3 +8,5 @@ Quick Markdown Overview
 - create *italic* text with '*'
 - include [links](https://embl.de) with [] and ()
 - type `code` with backticks
+- Headers: # H1,  ## H2, etc
+
