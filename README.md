@@ -1,4 +1,4 @@
-# swc-example-toby
+# SWC-Example-Toby
 An example project for the Git Lesson of EMBL Software Carpentry
 
 Quick Markdown Overview
